@@ -11,7 +11,7 @@ export const C1 = () => {
 
 export const C2 = () => {
     return (
-        <div id="c2">
+        <div id="c2" style={{border: '3px solid black'}}>
             component 2
         </div>
     )
