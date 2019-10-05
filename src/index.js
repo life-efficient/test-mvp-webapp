@@ -1,6 +1,6 @@
 import React from "react"
 
-export const c1 = () => {
+export const C1 = () => {
     return (
         <div>
             component 1
@@ -8,7 +8,7 @@ export const c1 = () => {
     )
 }
 
-export const c2 = () => {
+export const C2 = () => {
     return (
         <div>
             component 2
